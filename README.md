@@ -159,7 +159,7 @@ MIT © BitBrics
 ## Contact & Community
 
 - abhishek@fractz.com
-- [Open support issue on GitHub](https://github.com/yourrepo/issues)
+- [Open support issue on GitHub](https://github.com/ac12644/bitbrics-erc1155/issues)
 
 ---
 
